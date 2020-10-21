@@ -1,0 +1,21 @@
+.banner{
+    margin: 3rem;
+}
+
+.text-banner{
+
+}
+
+.card-width{
+    width: 70%;
+}
+
+.title{
+    font-weight: 700;
+}
+
+@media screen and (min-width: 100px) and (max-width: 500px){
+    .text-banner{
+        text-align: center;
+    }
+}

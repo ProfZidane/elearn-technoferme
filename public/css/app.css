@@ -1,0 +1,44 @@
+.word-head{
+    margin-top: 12rem;
+    margin-bottom: 12rem;
+    color: white;
+}
+
+#head-img{
+    background-image: url('https://image.freepik.com/vecteurs-libre/formes-vertes-fond-vert_23-2148358212.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.icon-pos{
+    position: relative;
+    top: 6px;
+}
+
+.nav-dsp{
+    box-shadow: none;
+}
+
+.form-contain{
+    width: 50%;
+}
+
+@media screen and (min-width: 200px) and (max-width: 900px) {
+    #grid-img{
+        height: 468px;
+    }
+    
+}
+
+
+
+
+/*
+    text-align: center;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 40%;
+    transform: translateY(-50%);
+*/
